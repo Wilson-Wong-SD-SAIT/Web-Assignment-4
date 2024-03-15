@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Obtain Firebase configuration
 
 You can check out [Add Firebase to your JavaScript project](https://firebase.google.com/docs/web/setup?hl=en&authuser=0&_gl=1*wmnwn1*_ga*MTk2MDU5OTgwNC4xNzEwNDU2MDY5*_ga_CW55HF8NVT*MTcxMDQ1NjA2OC4xLjEuMTcxMDQ1NjIyMi40OC4wLjA) to register a Firebase project.
